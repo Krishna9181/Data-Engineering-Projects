@@ -12,6 +12,9 @@
 # Data_Generator_Output - "Results of the producer sending the data into kafka stream"
 # Data_Consumer_Output - "Results of the consumer receiving the data from the kafka stream"
 # Database Results - "A sample view of the stored data in a livetolldata table of tolldata database."
+# Data_Generator_Output - "Results of the producer sending the data into kafka stream"
+# Data_Consumer_Output - "Results of the consumer receiving the data from the kafka stream"
+# Database Results - "A sample view of the stored data in a livetolldata table of tolldata database."
 
 
 """
