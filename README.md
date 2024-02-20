@@ -6,5 +6,5 @@ This repository includes different data engineering projects that I worked on!!
     * Files - ETL_toll_data.py, tolldata.tgz, Airflow_DAGS_view.png, Graphical_view.png
 2. Streaming Data Pipeline using Apache Kafka
      * A data pipeline that collects the streaming data and loads into a database.
-     * Files - toll_traffic_generator.py, streaming_data_reader.py, Datastorage_results.png
+     * Files - toll_traffic_generator.py, streaming_data_reader.py, Database_results.png, Data_Generator_Output.png, Data_Consumer_Output.png
 
