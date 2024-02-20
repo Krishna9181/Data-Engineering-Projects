@@ -1,3 +1,16 @@
+## A streaming data pipeline that collects data about different vehicles passing through different toll plazas and streams the data to kafka
+## which further store the collected data into a database.
+
+# DETAILS:
+# Topic = "toll"
+# Database = "tolldata"
+# Table = "livetolldata(timestamp datetime,vehicle_id int,vehicle_type char(15),toll_plaza_id smallint)"
+# Zookeeper - "To manage event brokers"
+# Kafka Server - "To stream the events"
+# Traffic Simulator - "Producer that randomly generates vehicle and toll plaza data to stream to kafka."
+# Streaming Data Reader - "Consumer that receives the data from kakfa stream and stores the data into the tolldata database."
+
+
 """
 Top Traffic Simulator
 """
