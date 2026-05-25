@@ -1,6 +1,6 @@
 # Data Engineering Projects
 
-Collection of data engineering work. Each project lives in its own folder.
+Collection of data engineering work.
 
 ## Projects
 
